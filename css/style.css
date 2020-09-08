@@ -11,3 +11,9 @@ hr {
   Height: 15px;
   color: purple;
 }
+
+a:hover {
+  color: orange;
+  text-decoration: none;
+  text-shadow: yellow;
+}
