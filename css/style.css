@@ -2,10 +2,12 @@
 }
 
 body {
-background-color: pink;
-font-family: 'Orbitron', sans-serif;
+  background-color: pink;
+  font-family: 'Orbitron', sans-serif;
+  color: blue;
 }
 
-h1 {
-
+hr {
+  Height: 15px;
+  color: purple;
 }
