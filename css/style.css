@@ -10,6 +10,12 @@ hr {
   Height: 15px;
   color: purple;
 }
+a:link {
+  background-color: magenta;
+}
+a:visited {
+  background-color: cyan;
+}
 a:hover {
   color: orange;
   text-decoration: none;
