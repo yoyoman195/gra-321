@@ -6,14 +6,18 @@ body {
   font-family: 'Orbitron', sans-serif;
   color: green;
 }
-
 hr {
   Height: 15px;
   color: purple;
 }
-
 a:hover {
   color: orange;
   text-decoration: none;
   text-shadow: yellow;
+}
+a:link {
+  color: grey;
+}
+a:visited {
+  color: gold;
 }
