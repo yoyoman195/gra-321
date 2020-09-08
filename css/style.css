@@ -1,11 +1,9 @@
 * {
-<link href="https://fonts.googleapis.com/css2?family=Raleway&display=swap" rel="stylesheet">
-font-family: 'Raleway', sans-serif;
-background-color: pink;
 }
 
-<body> {
+body {
 background-color: pink;
+font-family: 'Raleway', sans-serif;
 }
 
 h1 {
