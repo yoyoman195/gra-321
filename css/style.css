@@ -15,9 +15,3 @@ a:hover {
   text-decoration: none;
   text-shadow: yellow;
 }
-a:link {
-  color: grey;
-}
-a:visited {
-  color: gold;
-}
