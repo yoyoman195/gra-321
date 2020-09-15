@@ -10,9 +10,11 @@ hr {
 .link {
   color: orange;
 }
-.button {
+button {
   background-color: cyan;
-  color: purple
+  border: none;
+  color: purple;
+  padding: 1em 2em 1em 2em;
 }
 a:visited {
   background-color: cyan;
