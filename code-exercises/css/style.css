@@ -10,11 +10,16 @@ hr {
 .link {
   color: orange;
 }
+.button {
+  background-color: cyan;
+  color: purple;
+}
 a:visited {
   background-color: cyan;
 }
-a:hover {
+.hoverlink {
   color: white;
   text-decoration: none;
   text-shadow: yellow;
+  hover: white;
 }
