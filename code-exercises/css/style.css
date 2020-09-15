@@ -24,3 +24,17 @@ a:hover {
   text-decoration: none;
   text-shadow: yellow;
 }
+.container {
+  background-color: lightgreen;
+  background-image: url(#);
+  background-size: cover;
+  height: 700px;
+  margin: 0 auto;
+  width: 50%;
+}
+h1 {
+  color: white;
+  font-size: 50px;
+  position: relative;
+  text-align: center;
+}
