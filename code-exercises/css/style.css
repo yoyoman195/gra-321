@@ -12,14 +12,18 @@ hr {
 }
 .button {
   background-color: cyan;
-  color: purple;
+  color: purple
 }
 a:visited {
   background-color: cyan;
+}
+a:hover {
+  color: white;
+  text-decoration: none;
+  text-shadow: yellow;
 }
 .hoverlink {
   color: white;
   text-decoration: none;
   text-shadow: yellow;
   hover: white;
-}
