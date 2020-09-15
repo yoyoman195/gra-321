@@ -7,7 +7,7 @@ hr {
   Height: 15px;
   color: purple;
 }
-a:link {
+.link {
   color: orange;
 }
 a:visited {
