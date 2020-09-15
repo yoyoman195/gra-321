@@ -8,13 +8,13 @@ hr {
   color: purple;
 }
 a:link {
-  background-color: magenta;
+  color: orange;
 }
 a:visited {
   background-color: cyan;
 }
 a:hover {
-  color: orange;
+  color: white;
   text-decoration: none;
   text-shadow: yellow;
 }
