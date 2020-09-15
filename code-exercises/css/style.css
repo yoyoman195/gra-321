@@ -37,7 +37,7 @@ h1 {
   position: relative;
   text-align: center;
 }
-p{
+.para {
   font-family: 'Orbitron', sans-serif;
   font-size: 72px;
   font-weight: 450;
@@ -47,4 +47,10 @@ p{
   top: 70px;
   position: relative;
   color: lightgreen;
+}
+@media screen and (max-width: 1000px) {
+  body {background-color: lightgrey;}
+}
+@media screen and (max-width: 500px) {
+  body {background-color: yellow;}
 }
