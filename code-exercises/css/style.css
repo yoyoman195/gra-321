@@ -25,7 +25,7 @@ a:hover {
   text-shadow: yellow;
 }
 .container {
-  background-image: url(..\img\GOkP8onbuyjGmN9Rc8Que5mw21CdSw6OuXpAKUuE6-4.jpg);
+  background-image: url(https://external-preview.redd.it/GOkP8onbuyjGmN9Rc8Que5mw21CdSw6OuXpAKUuE6-4.jpg?width=960&crop=smart&auto=webp&s=baada9754b52c3be1dbf59e8d9b2502ce8ff9f8d);
   background-size: cover;
   height: 700px;
   margin: 0 auto;
@@ -36,4 +36,15 @@ h1 {
   font-size: 50px;
   position: relative;
   text-align: center;
+}
+p{
+  font-family: 'Orbitron', sans-serif;
+  font-size: 30px;
+  font-weight: 450;
+  text-align: center;
+  width: 100%;
+  margin: 0 auto;
+  top: 70px;
+  position: relative;
+  color: lightgreen;
 }
