@@ -54,7 +54,7 @@ h1 {
 @media screen and (max-width: 500px) {
   body {background-color: yellow;}
 }
-.pic{
+.pic {
   background-image: image("../img/desktop-view.png");
   background-size: cover;
   margin: 0 auto;
