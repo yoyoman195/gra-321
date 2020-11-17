@@ -55,7 +55,8 @@ h1 {
   body {background-color: yellow;}
 }
 .pic {
-  background-image: image("../img/desktop-view.png");
-  background-size: cover;
-  margin: 0 auto;
+  width: 75%;
+  height: auto;
+  display: block;
+
 }
