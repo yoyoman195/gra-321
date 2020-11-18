@@ -117,6 +117,7 @@ section h1, h4, p, ul, li {
  list-style-type: none;
  float: right;
  text-align:right;
+ font-weight: bold;
 }
 .title-item-row ul li {
  width:30%;
