@@ -14,24 +14,49 @@
 }
 
 .bold-name {
-  width: 80%;
+  width: 85%;
   font-family: ;
   font-weight: bold;
   font-style: normal;
   font-size: 16px;
   line-height: 30px;
   color: #724937;
-  padding-left: 30px;
+  margin: 0 auto;
 }
 
 .description {
-  width: 80%;
+  width: 85%;
   font-family: ;
   font-weight: 300;
   font-size: 16px;
   line-height: 20px;
   color: #724937;
-  padding-left: 30px;
+  margin: 0 auto;
+}
+
+.panini-price {
+  width: 100%;
+  display:flex;
+  justify-content: space-between;
+  align-items:flex-start;
+  padding: 0 0 1rem 0;
+}
+.panini-price p {
+  width:30%;
+  font-weight: bold;
+  font-size: 16px;
+}
+.panini-price ul {
+  width:60%;
+  list-style-type: none;
+  float: right;
+  text-align:right;
+  font-weight: bold;
+  font-size: 16px;
+}
+.panini-price ul li {
+  width:30%;
+  display:inline-block;
 }
 
 .bold-name2 {
@@ -172,6 +197,8 @@ section h1, h4, p, ul, li {
 }
 .title-item-row p {
   width:30%;
+  font-weight: bold;
+  font-size: 16px;
 }
 .title-item-row ul {
   width:60%;
@@ -179,6 +206,7 @@ section h1, h4, p, ul, li {
   float: right;
   text-align:right;
   font-weight: bold;
+  font-size: 16px;
 }
 .title-item-row ul li {
   width:30%;
