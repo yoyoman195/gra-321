@@ -34,6 +34,13 @@
   margin: 0 auto;
 }
 
+.specials-container {
+  max-width: 707px;
+  display: block;
+  position: relative;
+  margin: 0 auto;
+}
+
 .panini-price {
   width: 100%;
   display:flex;
@@ -67,7 +74,6 @@
   font-size: 16px;
   line-height: 30px;
   color: #724937;
-  padding-left: 30px;
   text-align:  center;
 }
 
@@ -78,7 +84,6 @@
   font-size: 16px;
   line-height: 20px;
   color: #724937;
-  padding-left: 30px;
   text-align: center;
 }
 
@@ -132,6 +137,13 @@
   margin: 0 auto;
 }
 
+.drinks-container {
+  max-width: 600px;
+  display: block;
+  position: relative;
+  margin: 0 auto;
+}
+
 
 html {
   font-size: 16px;
@@ -160,6 +172,10 @@ h1 {
 section h1, h4, p, ul, li {
   color:#724937;
 }
+h4 {
+  color: #724937;
+}
+
 .hot-drinks {
   margin-top: 15px;
 }
@@ -219,7 +235,7 @@ section h1, h4, p, ul, li {
   background-image: url(../img/panini-background.png);
   background-size: cover;
   background-position: center center;
-  width: 100%;
+  max-width: 100%;
   height: 500px;
   display:flex;
   align-items: center;
@@ -231,6 +247,13 @@ section h1, h4, p, ul, li {
   background-color:rgba(0, 0, 0, 0.8);
   text-align: center;
   color:rgba(250, 250, 250, 1);
+  margin: 0 auto;
+}
+
+.panini-container {
+  max-width: 700px;
+  display: block;
+  position: relative;
   margin: 0 auto;
 }
 
@@ -252,18 +275,36 @@ section h1, h4, p, ul, li {
   margin: 0 auto;
 }
 
+.about-container {
+  max-width: 700px;
+  display: block;
+  position: relative;
+  margin: 0 auto;
+}
+
 .map{
+  max-width: 700px;
   background-image: url(../img/map.png);
   background-size: cover;
   background-position: center center;
   width: 100%;
   height: 500px;
+  display: block;
+  position: relative;
+  margin: 0 auto;
+
   align-items: center;
+  justify-content: center;
 }
 
-h4 {
-  color: #724937;
+location-container {
+  width: 50%;
+  border: 2px solid black;
+  border-radius: 50px;
+  margin: 0 auto;
+  padding: 10px 10px;
 }
+
 
 
 @import url('');
