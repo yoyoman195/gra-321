@@ -54,9 +54,14 @@ h1 {
 @media screen and (max-width: 500px) {
   body {background-color: yellow;}
 }
-.pic {
+.pic1 {
   width: 75%;
   height: auto;
   display: block;
+}
 
+.pic2 {
+  width: 50%;
+  height: auto;
+  display: block;
 }
