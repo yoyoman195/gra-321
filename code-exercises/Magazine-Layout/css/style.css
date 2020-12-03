@@ -1,0 +1,76 @@
+
+
+h1 {
+  font-size: 30px;
+  font-family: 'Noto Sans', sans-serif;
+}
+
+P {
+  font-size: 15px;
+  font-family: 'lora', serif;
+}
+
+.text-box1{
+  color:black;
+  display: block;
+}
+
+.title-name1 {
+  color: black;
+  display: block;
+  width: 600px;
+  padding-left: 50px;
+}
+
+.L-container {
+  width: 366px;
+  margin-right: 50px;
+  margin-top: 123px;
+  margin-left: 20px;
+  margin-top: 30px;
+
+}
+
+.lawrence {
+  margin-top: 30px;
+  width: 591px;
+  padding-left: 50px;
+}
+
+.container-o {
+  width: 392px;
+  margin-left: 80px;
+  margin-top: 158px;
+  margin-right: 20px;
+}
+.o-container {
+  display: flex;
+}
+
+.oprah {
+  margin-top: 30px;
+  width: 531px;
+}
+
+.text-box2{
+  color:black;
+  display: block;
+}
+
+.title-name2 {
+  color: black;
+  display: block;
+  padding-left: 50px;
+
+}
+
+
+.footer-tag h3{
+  font-size: 13px;
+  margin-top: 175px;
+  color: black;
+}
+
+.containerL {
+  display: flex;
+}
